@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://media.giphy.com/media/1lRrsraIsEYRW/giphy.gif");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+}
+
+.btn-info {
+    background-color: #000000 ;   
+color: #FF1493;
+
+}
+
+.btn-info:hover{ background-color: rgba(247, 177, 28, 0.418)
+}
+
+
+.btn-info{
+font-family: fantasy;
+height:50px ;
+width: 150px
+}
+
+
+
